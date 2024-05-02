@@ -31,5 +31,3 @@ logger_config = config.build()
 ## Contribuição
 Contribuições são bem-vindas. Faça um fork, modifique e submeta um pull request
 
-## Licença
-MIT.
